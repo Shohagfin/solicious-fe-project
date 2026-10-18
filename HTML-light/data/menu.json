@@ -1,0 +1,1157 @@
+{
+    "kebab-e-dawat": {
+        "id": 1,
+        "name": "Kabab-E-Dawat",
+        "title": "",
+        "subTitle": "",
+        "bannerImg": "",
+        "menu": [
+            {
+                "section-side-img": "https://static.vecteezy.com/system/resources/previews/030/464/800/large_2x/flavorful-leg-ensemble-murg-tangri-masala-a-tangdi-chicken-curry-with-succulent-drumsticks-vertical-mobile-wallpaper-ai-generated-free-photo.jpg",
+                "section-title": "Mains",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "চিকেন ট্যাংরি কাবাব",
+                        "dishImg": "https://www.palatesdesire.com/wp-content/uploads/2022/07/Tangdi-kebab-recipe@palates-desire-1.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "চিকেন মালাই মাখন",
+                        "dishImg": "https://www.chompslurrpburp.com/wp-content/uploads/2022/10/cover-1-800x500.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "চিকেন বার বি কিউ",
+                        "dishImg": "https://www.allrecipes.com/thmb/APtZNY1GgOf3Ph0JUc-j4dImjrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2467480-southern-bbq-chicken-Allrecipes-Magazine-4x3-1-3e180dccbaae446c8c2d05f708611fc6.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "চিকেন তান্দুরি",
+                        "dishImg": "https://thehappyfoodie.co.uk/wp-content/uploads/2021/08/the_good_cook_5_151_img.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "চিকেন চাপ",
+                        "dishImg": "https://finallyfoodie.com/wp-content/uploads/2020/06/Chicken-Chaap.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "রেশমি মালাই কাবাব",
+                        "dishImg": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2021/Murgh_Malai_Kebab_Recipe_Chicken_Malai_Kebab_1.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 220
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "চিকেন রেশমি কাবাব",
+                        "dishImg": "https://sinfullyspicy.com/wp-content/uploads/2022/02/Chicken-Malai-Tikka-Featured-Image.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 200
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "চিকেন হারিয়ালি কাবাব",
+                        "dishImg": "https://i.ytimg.com/vi/9E68C_K9kxA/maxresdefault.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 9,
+                        "dishName": "চিকেন বটি কাবাব",
+                        "dishImg": "https://www.savoryandsweetfood.com/wp-content/uploads/2021/11/07FA40E8-EDB9-4AC5-9001-B67BF53A8173-scaled.jpeg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 10,
+                        "dishName": "চিকেন চাপ মাসালা",
+                        "dishImg": "https://reetikamitra.com/wp-content/uploads/2021/04/Chicken-Chaap-Logo.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 180
+                    },
+                    {
+                        "dishId": 11,
+                        "dishName": "চিকেন আচারি",
+                        "dishImg": "https://www.whiskaffair.com/wp-content/uploads/2021/01/Achari-Chicken-2-3-500x500.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 180
+                    },
+                    {
+                        "dishId": 12,
+                        "dishName": "চিকেন ঝাল ফ্রাই",
+                        "dishImg": "https://static.wixstatic.com/media/05c508_643e38bb2ea64965948a9bdb98f6b165~mv2.jpg/v1/fill/w_640,h_640,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/05c508_643e38bb2ea64965948a9bdb98f6b165~mv2.jpg",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 180
+                    }
+                ]
+            }
+        ]
+
+    },
+    "lamico": {
+        "id": 2,
+        "name": "LamiCO",
+        "title": "",
+        "subTitle": "",
+        "bannerImg": "",
+        "menu": [
+            {
+                "section-side-img": "",
+                "section-title": "Mains",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "চিকেন মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "চিলি চিকেন মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "চিলি চিকেন গ্রেডি মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 190
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "চিকেন গ্রেডি মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 190
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "চিকেন ফ্রাইড গ্রেডি মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 210
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "বারবিকিউ মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 200
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "চিকেন চিজ মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 180
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "কালারফুল মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 170
+                    },
+                    {
+                        "dishId": 9,
+                        "dishName": "মাশরুম মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 170
+                    },
+                    {
+                        "dishId": 10,
+                        "dishName": "নাগা মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 180
+                    },
+                    {
+                        "dishId": 11,
+                        "dishName": "গ্রেডি নাগা মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 200
+                    },
+                    {
+                        "dishId": 12,
+                        "dishName": "স্যুপি মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 230
+                    },
+                    {
+                        "dishId": 13,
+                        "dishName": "বিফ মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 200
+                    },
+                    {
+                        "dishId": 14,
+                        "dishName": "চিংড়ি মমো",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 200
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Drinks",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "পুদিনা লেমন",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    }
+                ]
+            }
+        ]
+
+    },
+    "kumilla-chotpoti": {
+        "id": 3,
+        "name": "কুমিল্লা চটপটি",
+        "title": "",
+        "subTitle": "",
+        "bannerImg": "",
+        "menu": [
+            {
+                "section-side-img": "",
+                "section-title": "চটপটি আইটেমস",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "চটপটি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 60
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "শাহী চটপটি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "বোম্বাই চটপটি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 60
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "শাহী ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "বোম্বাই ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "চিকেন ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "দই ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 9,
+                        "dishName": "স্পেশাল দই ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 10,
+                        "dishName": "চকলেট ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 11,
+                        "dishName": "রাজ কাচুরি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 12,
+                        "dishName": "পাপড়ি চাট",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "জুস আইটেমস",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "পুদিনা লেমন জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 80
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "লেমন জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 50
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "মালটা জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "পেঁপে জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "আপেল জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "আমের জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "আনারস জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "ককটেল জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 9,
+                        "dishName": "কোল্ড কফি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 10,
+                        "dishName": "মিল্কসেক",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 11,
+                        "dishName": "ম্যাংগো মিল্কসেক",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 12,
+                        "dishName": "চকলেট মিল্কসেক",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 13,
+                        "dishName": "ব্যানানা মিল্কসেক",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 14,
+                        "dishName": "কাজু বাদাম মিল্কসেক",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 15,
+                        "dishName": "পেস্তা বাদাম মিল্কসেক",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 16,
+                        "dishName": "অরিও মিল্কসেক",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "লাচ্চি আইটেমস",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "দই লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "স্পেশাল লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "মালটা লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "ম্যাংগো লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "ব্যানানা লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "চকলেট লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "স্ট্রেবেরী লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "পেস্তা বাদাম লাচ্চি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 9,
+                        "dishName": "হট কফি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 80
+                    }
+                ]
+            }
+        ]
+
+    },
+    "burger-boss": {
+        "id": 1,
+        "name": "Burder Boss",
+        "title": "",
+        "subTitle": "",
+        "bannerImg": "",
+        "menu": [
+            {
+                "section-side-img": "",
+                "section-title": "Mains",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Chicken Burger",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Mexican Burger",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "BBQ Chicken Delight",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "Smoke Sub Sandwich",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "Chicken Sandwich",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 80
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "Sub Sandwich",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "Chicken Wings",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "Naga Wings",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 9,
+                        "dishName": "Pasta",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 10,
+                        "dishName": "Nacos",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    }
+                ]
+            }
+        ]
+
+    },
+    "waffle-mania": {
+        "id": 1,
+        "name": "Waffle Mania",
+        "title": "",
+        "subTitle": "",
+        "bannerImg": "",
+        "menu": [
+            {
+                "section-side-img": "",
+                "section-title": "Fresh Juice",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Mint Lemonade",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 80
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Green Mango Juice",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 80
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "Orange Juice",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "Watermelon Juice",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "Pineapple Juice",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "Papaiya Juice",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "Ripe Mango Juice",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "Blue Ocean",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Milkshake",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Chocolate Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Strawberry Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "Kitkat Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "Oreo Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "Vanilla Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "Mango Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "Banana Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "Nutella Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 160
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "Biscoff Butter Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 170
+                    },
+                    {
+                        "dishId": 8,
+                        "dishName": "Snickers Milkshake",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Cold Coffee",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Chocolate Cold Coffee",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Oreo Cold Coffee",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "Ceramel Cold Coffee",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 130
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Lassi",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Regular Lassi",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Banana Lassi",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    }
+                ]
+            }
+        ]
+
+    },
+    "talha-chotpoti": {
+        "id": 1,
+        "name": "তালহা চটপটি ফুচকা এন্ড জুস ঘর",
+        "title": "",
+        "subTitle": "",
+        "bannerImg": "",
+        "menu": [
+            {
+                "section-side-img": "",
+                "section-title": "ফুচকা আইটেম",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "রেগুলার ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 60
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "বোম্বাই ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "দই ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "ককটেল ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "বাদাম ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "চকলেট ফুচকা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "চটপটি আইটেম",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "রেগুলার চটপটি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 50
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "বোম্বাই চটপটি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 60
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "শাহী চটপটি",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "দই চিরা আইটেম",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "রেগুলার দই চিরা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 50
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "স্পেশাল দই চিরা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "শাহী স্পেশাল দই চিরা",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "জুস আইটেম",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "লেমন জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 50
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "লেমন মিন্ট জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "মালটা জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "আপেল জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 5,
+                        "dishName": "পেঁপে জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 6,
+                        "dishName": "পাকা আমের জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 7,
+                        "dishName": "কাচা আমের জুস",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 80
+                    }
+                ]
+            }
+        ]
+
+    },
+    "juice-and-bite": {
+        "id": 1,
+        "name": "Juice & Bite",
+        "title": "",
+        "subTitle": "",
+        "bannerImg": "",
+        "menu": [
+            {
+                "section-side-img": "",
+                "section-title": "Doi Chira Item",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Doi Chira",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 50
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Mango Doi Chira",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 80
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "Special Doi Chira",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 70
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "Super Special Doi Chira",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Chotpoti Fuchka Item",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Chotpoti",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 50
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Fuchka",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 60
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "Doi Fuchka",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Pasta Item",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Chicken Pasta",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Naga Pasta",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 170
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "BBQ Pasta",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 170
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "White Cream Pasta",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 200
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Chowmein Item",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Chicken Chowmein",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Prawn Chowmein",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 150
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "Mix Chowmein",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 200
+                    },
+                    {
+                        "dishId": 4,
+                        "dishName": "Thai Soup",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 120
+                    }
+                ]
+            },
+            {
+                "section-side-img": "",
+                "section-title": "Burger Item",
+                "section-subTitle": "",
+                "section-menu": [
+                    {
+                        "dishId": 1,
+                        "dishName": "Chicken Burger",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 90
+                    },
+                    {
+                        "dishId": 2,
+                        "dishName": "Naga Burger",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    },
+                    {
+                        "dishId": 3,
+                        "dishName": "BBQ Burger",
+                        "dishImg": "",
+                        "dishDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "dishPrice": 100
+                    }
+                ]
+            }
+        ]
+
+    }
+}
